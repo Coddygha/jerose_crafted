@@ -66,7 +66,6 @@ const CATEGORIES = [
   { id: 'Souvenirs', name: 'Souvenirs', icon: 'fa-circle-nodes' },
   { id: 'Accessories', name: 'Accessories', icon: 'fa-hat-cowboy' },
   { id: 'Gifts', name: 'Gifts', icon: 'fa-gift' },
-  { id: 'Accessories', name: 'Accessories', icon: 'fa-hat-cowboy' },
 ];
 
 const REVIEWS = [
