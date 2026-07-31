@@ -43,7 +43,7 @@ const PRODUCTS = [
   {id: 'p33', name: '💐 Eternal lily Bouquet (Single)2', category: 'Accessories,Gifts,Souvenirs', price: 150, rating: 4.7, badge: 'new', image: 'images/33_basket.png', stock: '📱 Fits most phones'},
   {id: 'p34', name: '💐 Eternal lily Bouquet (Single)3', category: 'Accessories,Gifts,Souvenirs', price: 150, rating: 4.6, badge: 'sale', image: 'images/34_basket.png', stock: '👜 Cute & functional'},
   {id: 'p35', name: '💐 Eternal lily Bouquet (Single)4', category: 'Accessories,Gifts,Souvenirs', price: 150, rating: 4.8, image: 'images/35_basket.png', stock: '🦊 Forest friend'},
-  {id: 'p36', name: '🪴 Flower Pot5', category: 'Souvenirs,Gifts', price: 150, rating: 4.9, badge: 'best', image: 'images/36_pot.png', stock: '🐼 Irresistibly cute'},
+  {id: 'p36', name: '🪴 Flower Pot5', category: 'Souvenirs,Gifts', price: 150, rating: 4.9, badge: 'best', image: 'images/36_pot.jpg', stock: '🐼 Irresistibly cute'},
   {id: 'p37', name: ' Curtain Tie', category: 'Crochet,Home Decor', price: 40, rating: 4.7, badge: 'new', image: 'images/37_tie.png', stock: '🌵 No watering needed'},
   {id: 'p38', name: '🍩 Crochet Donut Keychain', category: 'Crochet,Souvenirs,Accessories', price: 35, rating: 4.6, image: 'images/38_donut.png', stock: '🍩 Sweet & squishy'},
   {id: 'p39', name: '🌸 Mini Crochet Flower Bouquet (Single Stem)', category: 'Bouquets,Souvenirs', price: 45, oldPrice: 55, rating: 4.5, badge: 'sale', image: 'images/39_single_stem.png', stock: '🌸 Perfect as a token'},
