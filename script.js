@@ -45,19 +45,8 @@ const PRODUCTS = [
   {id: 'p35', name: '💐 Eternal lily Bouquet (Single)4', category: 'Accessories,Gifts,Souvenirs', price: 150, rating: 4.8, image: 'images/35_basket.png', stock: '🦊 Forest friend'},
   {id: 'p36', name: '🪴 Flower Pot5', category: 'Souvenirs,Gifts', price: 150, rating: 4.9, badge: 'best', image: 'images/36_pot.jpg', stock: '🐼 Irresistibly cute'},
   {id: 'p37', name: ' Curtain Tie', category: 'Crochet,Home Decor', price: 40, rating: 4.7, badge: 'new', image: 'images/37_tie.png', stock: '🌵 No watering needed'},
-  {id: 'p38', name: '🍩 Crochet Donut Keychain', category: 'Crochet,Souvenirs,Accessories', price: 35, rating: 4.6, image: 'images/38_donut.png', stock: '🍩 Sweet & squishy'},
-  {id: 'p39', name: '🌸 Mini Crochet Flower Bouquet (Single Stem)', category: 'Bouquets,Souvenirs', price: 45, oldPrice: 55, rating: 4.5, badge: 'sale', image: 'images/39_single_stem.png', stock: '🌸 Perfect as a token'},
-  {id: 'p40', name: '🍀 Macramé Leaf Earrings', category: 'Macrame,Accessories', price: 70, rating: 4.8, badge: 'new', image: 'images/40_earrings.png', stock: '🍀 Lightweight & boho'},
-  {id: 'p41', name: '🪞 Beaded Dreamcatcher – Mini', category: 'Beaded,Home Decor,Souvenirs', price: 110, oldPrice: 140, rating: 4.7, badge: 'sale', image: 'images/41_dreamcatcher.png', stock: '🌙 Sweet dreams'},
-  {id: 'p42', name: '🌻 Knitted Headband – Sunflower', category: 'Knitted,Accessories,Gifts', price: 85, rating: 4.9, badge: 'best', image: 'images/42_headband_sunflower.png', stock: '🌻 Warm & stylish'},
-  {id: 'p43', name: '🧵 Cross-stitch Keychain – Custom Name', category: 'Crochet,Souvenirs,Gifts', price: 50, rating: 4.8, image: 'images/43_cross_stitch.png', stock: '🧵 Personalized'},
-  {id: 'p44', name: '🕊️ Crochet Dove Ornament', category: 'Crochet,Home Decor,Souvenirs', price: 90, rating: 4.6, badge: 'new', image: 'images/44_dove.png', stock: '🕊️ Peace & love'},
-  {id: 'p45', name: '🎄 Crochet Christmas Wreath Ornament', category: 'Crochet,Home Decor,Souvenirs,Gifts', price: 80, rating: 4.7, image: 'images/45_wreath.png', stock: '🎄 Festive decor'},
-  {id: 'p46', name: '📖 Macramé Bookmark – Tassel', category: 'Macrame,Souvenirs', price: 30, rating: 4.5, badge: 'new', image: 'images/46_bookmark.png', stock: '📖 For book lovers'},
-  {id: 'p47', name: '🍂 Knitted Pumpkin (Fall Decor)', category: 'Knitted,Home Decor', price: 140, oldPrice: 180, rating: 4.8, badge: 'sale', image: 'images/47_pumpkin.png', stock: '🍂 Autumn feels'},
-  {id: 'p48', name: '🐚 Beaded Shell Necklace', category: 'Beaded,Accessories', price: 95, rating: 4.7, image: 'images/48_necklace.png', stock: '🐚 Beachy vibes'},
-  {id: 'p49', name: '🧸 Crochet Teddy Bear Mini', category: 'Crochet,Gifts', price: 120, oldPrice: 150, rating: 4.9, badge: 'sale', image: 'images/49_teddy.png', stock: '🧸 Pocket-sized cuddle'},
-  {id: 'p50', name: '💐 Eternal lily Crochet Bouquet (Single)', category: 'Bouquets,Gifts', price: 100, rating: 4.9, badge: 'best', image: 'images/50_eternal_rose.png', stock: '🌹 Never fades'}
+  {id: 'p38', name: '🍩 Mashroom Pen Holder', category: 'Crochet,Souvenirs,Accessories', price: 35, rating: 4.6, image: 'images/38_minihouse.jpg', stock: '🍩 Sweet & squishy'},
+  {id: 'p39', name: '💜 Lavender Bloom Bouquet', category: 'Bouquets,Souvenirs', price: 45, oldPrice: 55, rating: 4.5, badge: 'sale', image: 'images/39_bouquet.jpg', stock: '🌸 Perfect as a token'},
 ];
 
 const CATEGORIES = [
