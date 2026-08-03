@@ -44,9 +44,11 @@ const PRODUCTS = [
   {id: 'p34', name: '💐 Eternal lily Bouquet (Single)3', category: 'Accessories,Gifts,Souvenirs', price: 150, rating: 4.6, badge: 'sale', image: 'images/34_basket.png', stock: '👜 Cute & functional'},
   {id: 'p35', name: '💐 Eternal lily Bouquet (Single)4', category: 'Accessories,Gifts,Souvenirs', price: 150, rating: 4.8, image: 'images/35_basket.png', stock: '🦊 Forest friend'},
   {id: 'p36', name: '🪴 Flower Pot5', category: 'Souvenirs,Gifts', price: 150, rating: 4.9, badge: 'best', image: 'images/36_pot.jpg', stock: '🐼 Irresistibly cute'},
-  {id: 'p37', name: ' Curtain Tie', category: 'Crochet,Home Decor', price: 40, rating: 4.7, badge: 'new', image: 'images/37_tie.png', stock: '🌵 No watering needed'},
-  {id: 'p38', name: '🍩 Mashroom Pen Holder', category: 'Crochet,Souvenirs,Accessories', price: 150, rating: 4.6, image: 'images/38_minihouse.jpg', stock: '🍩 Sweet & squishy'},
-  {id: 'p39', name: '💜 Lavender Bloom Bouquet', category: 'Bouquets,Souvenirs', price: 300, oldPrice: 350, rating: 4.5, badge: 'sale', image: 'images/39_bouquet.jpg', stock: '🌸 Perfect as a token'},
+  {id: 'p37', name: ' Curtain Tie', category: 'Accessories,Gifts', price: 40, rating: 4.7, badge: 'new', image: 'images/37_tie.png', stock: '🌵 No watering needed'},
+  {id: 'p38', name: '🍩 Mashroom Pen Holder', category: 'Accessories,Souvenirs', price: 150, rating: 4.6, image: 'images/38_minihouse.jpg', stock: '🍩 Sweet & squishy'},
+  {id: 'p39', name: '💜 Lavender Bloom Bouquet', category: 'Bouquets,Gifts', price: 300, oldPrice: 350, rating: 4.5, badge: 'sale', image: 'images/39_bouquet.jpg', stock: '🌸 Perfect as a token'},
+  {id: 'p40', name: '🌷 Tulip Blossom Bouquet', category: 'Bouquets,Gifts', price: 300, rating: 4.6, badge: 'new', image: 'images/40_bouquet.jpg', stock: '💐 Handmade & Customizable'},
+
 ];
 
 const CATEGORIES = [
